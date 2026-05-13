@@ -1,1 +1,0 @@
-print('Exemplo 1 na developtment')
